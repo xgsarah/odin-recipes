@@ -1,4 +1,4 @@
-# Odin Recipes
+# [Odin Recipes](https://xgsarah.github.io/odin-recipes)
 
 Welcome to the "Odin Recipes" repository, where I showcase my foundational knowledge of HTML by creating a basic webpage dedicated to delightful recipes. This project is an exploration of simple yet effective web development techniques using HTML, offering a user-friendly interface for sharing and discovering culinary delights.
 
@@ -15,17 +15,21 @@ This is my solution to the exercise from [https://www.theodinproject.com/lessons
 ## How to Use
 
 1. **Clone the Repository:**
+
    ```bash
    git clone https://github.com/your-username/odin-recipes.git
 
+   ```
+
 2. **Open in a Browser:**
-    - Navigate to the project folder.
-    - Double-click on the **`index.html`** file to open it in your preferred web browser.
+
+   - Navigate to the project folder.
+   - Double-click on the **`index.html`** file to open it in your preferred web browser.
 
 3. **Explore Recipes:**
-    - Click on each recipe in the navigation menu to explore the corresponding recipe page.
-    - Observe the structure and styling applied using HTML.
-  
+   - Click on each recipe in the navigation menu to explore the corresponding recipe page.
+   - Observe the structure and styling applied using HTML.
+
 ## Learn HTML Basics
 
 If you're a beginner in web development, this repository serves as an excellent starting point for understanding the fundamental concepts of HTML. Feel free to explore the code, experiment with modifications, and use this project as a reference for your future endeavors.
